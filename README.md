@@ -18,13 +18,30 @@ Output:
 
 ![Alt text](https://github.com/YadavlnTech/Bank-Management-System/blob/main/01.png)
 
+
+
+
 ![Alt text](https://github.com/YadavlnTech/Bank-Management-System/blob/main/02.png)
+
+
+
 
 ![Alt text](https://github.com/YadavlnTech/Bank-Management-System/blob/main/03.png)
 
+
+
+
 ![Alt text](https://github.com/YadavlnTech/Bank-Management-System/blob/main/04.png)
 
+
+
+
 ![Alt text](https://github.com/YadavlnTech/Bank-Management-System/blob/main/05.png)
+
+
+
+
+
 ![Alt text](https://github.com/YadavlnTech/Bank-Management-System/blob/main/07.png)
 
 
